@@ -24,8 +24,13 @@ A developer who is always learning and looking for the best practices and best t
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/leonardo-m-cruz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leonardo-m-cruz" height="30" width="40" /></a>
-<a href="https://instagram.com/leo_m_cruz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leo_m_cruz" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/in/leonardo-m-cruz" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
+
+<a href="https://www.instagram.com/leo_m_cruz/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-red?logo=Instagram&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
+
 </p>
 
 <br>
@@ -34,6 +39,8 @@ A developer who is always learning and looking for the best practices and best t
 
 <br>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=leonardocruzx&theme=dark&show_icons=true&include_all_commits=true" alt="General stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardocruzx&theme=dark" alt="Most used languages" />
+</p>
