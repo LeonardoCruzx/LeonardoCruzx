@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leonardo Cruz</h1>
 
 <h2 align="center"> 
-A developer who is always learning and looking for the best practices and best technologies to improve projects</h2>
+A developer who is always learning and looking for the best practices and best technologies to improve the projects</h2>
 
 <br>
 
@@ -10,9 +10,9 @@ A developer who is always learning and looking for the best practices and best t
 
 - 🔭 I’m currently working on **Hunt Out**
 
-- 🌱 I’m currently learning **Unity, C#**
+- 🌱 I’m currently learning **Godot, C#**
 
-- 💬 Ask me about **Django, Python, My game**
+- 💬 Ask me about **Django, Python, My game, C#, .NET**
 
 - 📫 How to reach me **leonardo.m.cruz@hotmail.com**
 
