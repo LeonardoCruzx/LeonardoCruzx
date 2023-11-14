@@ -41,7 +41,7 @@ A developer who is always learning and looking for the best practices and best t
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardocruzx)](https://github.com/leonardocruzx/github-readme-stats)
+[![Leonardo Cruz's GitHub stats](https://github-readme-stats-pi-six-32.vercel.app/api?username=leonardocruzx)](https://github.com/leonardocruzx/github-readme-stats)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=leonardocruzx&theme=dark&show_icons=true&include_all_commits=true" alt="General stats" />
