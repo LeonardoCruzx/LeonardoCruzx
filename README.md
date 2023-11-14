@@ -39,14 +39,7 @@ A developer who is always learning and looking for the best practices and best t
 
 ---
 
-<br>https://github-readme-stats-pi-six-32.vercel.app/
+<br>
 
-[![Leonardo Cruz's GitHub stats](http://github-readme-stats-pi-six-32.vercel.app/api?username=leonardocruzx)](https://github.com/leonardocruzx/github-readme-stats)
+[![Leonardo Cruz's GitHub stats](http://github-readme-stats-pi-six-32.vercel.app/api?username=leonardocruzx&theme=dark&show_icons=true)](https://github.com/leonardocruzx/github-readme-stats)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leonardocruzx&theme=dark&show_icons=true&include_all_commits=true" alt="General stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardocruzx&theme=dark" alt="Most used languages" />
-</p>
