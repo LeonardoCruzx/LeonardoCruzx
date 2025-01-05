@@ -8,11 +8,11 @@ A developer who is always learning and looking for the best practices and best t
 ---
 <br>
 
-- 🔭 I’m currently working on **Hunt Out**
+- 🔭 I’m currently working on **Dungeon Royale**
 
 - 🌱 I’m currently learning **Godot, C#**
 
-- 💬 Ask me about **Django, Python, My game, C#, .NET**
+- 💬 Ask me about **Django, Python, My game, C#, .NET Core, React**
 
 - 📫 How to reach me **leonardo.m.cruz@hotmail.com**
 
